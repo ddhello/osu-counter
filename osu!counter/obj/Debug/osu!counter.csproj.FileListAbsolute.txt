@@ -1,0 +1,10 @@
+C:\Users\sgfic\Documents\Visual Studio 2017\Projects\osu!counter\osu!counter\bin\Debug\osu!counter.exe
+C:\Users\sgfic\Documents\Visual Studio 2017\Projects\osu!counter\osu!counter\bin\Debug\osu!counter.pdb
+C:\Users\sgfic\Documents\Visual Studio 2017\Projects\osu!counter\osu!counter\obj\Debug\osu!counter.csprojAssemblyReference.cache
+C:\Users\sgfic\Documents\Visual Studio 2017\Projects\osu!counter\osu!counter\obj\Debug\osu_counter.Form1.resources
+C:\Users\sgfic\Documents\Visual Studio 2017\Projects\osu!counter\osu!counter\obj\Debug\osu_counter.Properties.Resources.resources
+C:\Users\sgfic\Documents\Visual Studio 2017\Projects\osu!counter\osu!counter\obj\Debug\osu!counter.csproj.GenerateResource.cache
+C:\Users\sgfic\Documents\Visual Studio 2017\Projects\osu!counter\osu!counter\obj\Debug\osu!counter.csproj.CoreCompileInputs.cache
+C:\Users\sgfic\Documents\Visual Studio 2017\Projects\osu!counter\osu!counter\obj\Debug\osu!counter.exe
+C:\Users\sgfic\Documents\Visual Studio 2017\Projects\osu!counter\osu!counter\obj\Debug\osu!counter.pdb
+C:\Users\sgfic\Documents\Visual Studio 2017\Projects\osu!counter\osu!counter\bin\Debug\osu!counter.exe.config
